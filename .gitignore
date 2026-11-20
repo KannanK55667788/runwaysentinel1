@@ -1,0 +1,8 @@
+/runway_supervisor
+/runway_fault_manager
+/runway_sensors
+/runway_ble_uart
+/runway_faultctl
+/build/
+*.o
+*.d
